@@ -1,0 +1,44 @@
+* c310dbd agregando 2 parrafos
+*   df8b42f agregando a bolivia
+|\  
+| *   8db66f7 solucionando inconvenientes al agregar los paises
+| |\  
+* | \   19d0857 agregando nuevos paises
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| *   7455080 resolviendo conflicto en estaciones del año y fechas de inicio
+| |\  
+* | \   3bdc62f agregando el pais al que le corresponden las fechas de inicio de cada estacion
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * 3120ae2 agregando estaciones del año
+* | 50c6a65 agregando las estaciones del año con las fechas de inicio
+|/  
+*   0d03d17 resolviendo conflicto merge main html en el documento index.html
+|\  
+| * ce37b8b agregando index.js al index.html
+* | 65e1ffe agregando style.css al index.html
+|/  
+* 3c7b831 agrego archivo index.html
+* bbcb49f elimino el archivo index2.html de prueba
+* 550b8ce agrego segundo archivo index.html de prueba
+*   8d3a2df Merge branch 'js'
+|\  
+| * bba2dfc creando index.js
+* | ee7ee0c creando style.css
+* | 7673d83 Creando archivo index.html
+|/  
+* 9d0efed ignorando archivos .exe
+* 9630ec3 elimino licencia innecesaria del proyecto
+* a0c512e agrego licencia al proyecto
+* 43bfb02 agrego licencia al proyecto
+* c8f60e8 elimino licencia innecesaria
+* 1f6b1ae Create LICENSE
+* da528fe Create license.txt
+* a5fe0cd agregando mas contenido al readme
+* d0481f5 agregando contenido inicial al readme
+* 36edc5f Primer commit
