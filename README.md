@@ -3,3 +3,5 @@
 Hola soy Franco Bonanomi y estoy haciendo el curso de Git y Github
 
 Agregando mas contenido al _README.md_
+
+Este commit es para oficializar nuestra version **1.0.0**
