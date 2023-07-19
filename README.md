@@ -3,3 +3,5 @@
 Hola soy Franco Bonanomi y estoy haciendo el curso de Git
 
 oficializando el lanzamiento de nuestra version **1.0.0**
+
+oficializando el lanzamiento de nuestra version **1.0.1**
