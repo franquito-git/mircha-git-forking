@@ -1,5 +1,5 @@
 # Curso de _Git_ y _Github_
 
-Hola soy Franco Bonanomi y estoy haciendo el curso de Git y Github
+Hola soy Franco Bonanomi y estoy haciendo el curso de Git
 
-Agregando mas contenido al _README.md_
+oficializando el lanzamiento de nuestra version **1.0.0**
