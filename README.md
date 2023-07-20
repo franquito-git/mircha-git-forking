@@ -2,6 +2,6 @@
 
 Hola soy Franco Bonanomi y estoy haciendo el curso de Git
 
-oficializando el lanzamiento de nuestra version **1.0.1**
+¿Quieres dominar el uso de _git_?, mira este [enlace](https://jonmircha.com/git).
 
-cambio de prueba
+![flujo de git](git-flow.png)
